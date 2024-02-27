@@ -4,6 +4,24 @@ This guide provides step-by-step instructions for working with the Stone Prover 
 
 ## Preparing the Environment
 
+### Setting up Stone Prover
+```bash
+cd stone-prover
+docker build --tag prover .
+docker run -it prover bash
+```
+for Mac
+```bash
+docker build --tag prover . --build-arg CMAKE_ARGS=-DNO_AVX=1
+docker run -it prover bash
+```
+Can also copy out the executable stone prover file to the linux system
+```bash
+container_id=$(docker create prover)
+docker cp -L ${container_id}:/bin/cpu_air_prover .
+docker cp -L ${container_id}:/bin/cpu_air_verifier .
+```
+
 ### Copying the Cairo Code to the Stone Prover Docker Container
 
 To start, you need to copy the Cairo code into the Stone Prover Docker container. Execute the following commands in your terminal:
@@ -36,6 +54,13 @@ cairo-run \
     --print_output \
     --proof_mode
 
+```
+### Generating the Configuration File
+Remember to check the public input for the number of steps to configure the FRI step list in cpu_air_params.json
+FRI steps should typically be in the range 2-4; the degree bound should be in the range 4-7.
+The following equation should be satisfied
+```bash
+log₂(last_layer_degree_bound) + ∑fri_step_list = log₂(#steps) + 4
 ```
 ## Running the CPU Air Prover
 ```bash
