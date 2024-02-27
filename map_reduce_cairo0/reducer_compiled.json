@@ -1,0 +1,3361 @@
+{
+    "attributes": [],
+    "builtins": [],
+    "compiler_version": "0.13.0",
+    "data": [
+        "0x40780017fff7fff",
+        "0x1",
+        "0x208b7fff7fff7ffe",
+        "0x40780017fff7fff",
+        "0x0",
+        "0x1104800180018000",
+        "0x800000000000010fffffffffffffffffffffffffffffffffffffffffffffffc",
+        "0x480680017fff8000",
+        "0x0",
+        "0x400080007ffe7fff",
+        "0x480680017fff8000",
+        "0x1",
+        "0x400080017ffd7fff",
+        "0x480680017fff8000",
+        "0x0",
+        "0x400080027ffc7fff",
+        "0x480680017fff8000",
+        "0x4",
+        "0x400080037ffb7fff",
+        "0x480680017fff8000",
+        "0x0",
+        "0x400080047ffa7fff",
+        "0x480680017fff8000",
+        "0x9",
+        "0x400080057ff97fff",
+        "0x480680017fff8000",
+        "0x1",
+        "0x400080067ff87fff",
+        "0x480680017fff8000",
+        "0x4",
+        "0x400080077ff77fff",
+        "0x480680017fff8000",
+        "0x1",
+        "0x400080087ff67fff",
+        "0x480680017fff8000",
+        "0xa",
+        "0x400080097ff57fff",
+        "0x480680017fff8000",
+        "0x1",
+        "0x4000800a7ff47fff",
+        "0x480680017fff8000",
+        "0x12",
+        "0x4000800b7ff37fff",
+        "0x480680017fff8000",
+        "0x2",
+        "0x4000800c7ff27fff",
+        "0x480680017fff8000",
+        "0x7",
+        "0x4000800d7ff17fff",
+        "0x480680017fff8000",
+        "0x2",
+        "0x4000800e7ff07fff",
+        "0x480680017fff8000",
+        "0x10",
+        "0x4000800f7fef7fff",
+        "0x480680017fff8000",
+        "0x2",
+        "0x400080107fee7fff",
+        "0x480680017fff8000",
+        "0x1b",
+        "0x400080117fed7fff",
+        "0x48127fed7fff8000",
+        "0x480680017fff8000",
+        "0x3",
+        "0x480680017fff8000",
+        "0x6",
+        "0x480680017fff8000",
+        "0x0",
+        "0x1104800180018000",
+        "0x3",
+        "0x208b7fff7fff7ffe",
+        "0x48297ffc80007ffb",
+        "0x20680017fff7fff",
+        "0x8",
+        "0x484680017ffb8000",
+        "0x2",
+        "0x48327fff7ffa8000",
+        "0x480080007fff8000",
+        "0x480a7ffd7fff8000",
+        "0x208b7fff7fff7ffe",
+        "0x484680017ffb8000",
+        "0x2",
+        "0x482480017fff8000",
+        "0x1",
+        "0x48327fff7ffa8000",
+        "0x480080007fff8000",
+        "0x480a7ffa7fff8000",
+        "0x482680017ffb8000",
+        "0x1",
+        "0x480a7ffc7fff8000",
+        "0x48327ffc7ffd8000",
+        "0x1104800180018000",
+        "0x800000000000010ffffffffffffffffffffffffffffffffffffffffffffffed",
+        "0x208b7fff7fff7ffe"
+    ],
+    "debug_info": {
+        "file_contents": {},
+        "instruction_locations": {
+            "0": {
+                "accessible_scopes": [
+                    "starkware.cairo.common.alloc",
+                    "starkware.cairo.common.alloc.alloc"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 0
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [
+                    {
+                        "location": {
+                            "end_col": 38,
+                            "end_line": 3,
+                            "input_file": {
+                                "filename": "/Users/felixmeng/cairo_venv/lib/python3.9/site-packages/starkware/cairo/common/alloc.cairo"
+                            },
+                            "start_col": 5,
+                            "start_line": 3
+                        },
+                        "n_prefix_newlines": 0
+                    }
+                ],
+                "inst": {
+                    "end_col": 12,
+                    "end_line": 4,
+                    "input_file": {
+                        "filename": "/Users/felixmeng/cairo_venv/lib/python3.9/site-packages/starkware/cairo/common/alloc.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 4
+                }
+            },
+            "2": {
+                "accessible_scopes": [
+                    "starkware.cairo.common.alloc",
+                    "starkware.cairo.common.alloc.alloc"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 1
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 40,
+                    "end_line": 5,
+                    "input_file": {
+                        "filename": "/Users/felixmeng/cairo_venv/lib/python3.9/site-packages/starkware/cairo/common/alloc.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 5
+                }
+            },
+            "3": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 0
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 18,
+                    "end_line": 4,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 4
+                }
+            },
+            "5": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 41,
+                    "end_line": 6,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 34,
+                    "start_line": 6
+                }
+            },
+            "7": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 3
+                    },
+                    "reference_ids": {
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 23,
+                    "end_line": 7,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 22,
+                    "start_line": 7
+                }
+            },
+            "9": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 4
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 27,
+                    "end_line": 7,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 7
+                }
+            },
+            "10": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 4
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 25,
+                    "end_line": 7,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 24,
+                    "start_line": 7
+                }
+            },
+            "12": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 5
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 27,
+                    "end_line": 7,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 7
+                }
+            },
+            "13": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 5
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 23,
+                    "end_line": 8,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 22,
+                    "start_line": 8
+                }
+            },
+            "15": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 6
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 27,
+                    "end_line": 8,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 8
+                }
+            },
+            "16": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 6
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 25,
+                    "end_line": 8,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 24,
+                    "start_line": 8
+                }
+            },
+            "18": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 7
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 27,
+                    "end_line": 8,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 8
+                }
+            },
+            "19": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 7
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 23,
+                    "end_line": 9,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 22,
+                    "start_line": 9
+                }
+            },
+            "21": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 8
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 27,
+                    "end_line": 9,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 9
+                }
+            },
+            "22": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 8
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 25,
+                    "end_line": 9,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 24,
+                    "start_line": 9
+                }
+            },
+            "24": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 9
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 27,
+                    "end_line": 9,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 9
+                }
+            },
+            "25": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 9
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 23,
+                    "end_line": 10,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 22,
+                    "start_line": 10
+                }
+            },
+            "27": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 10
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 27,
+                    "end_line": 10,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 10
+                }
+            },
+            "28": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 10
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 25,
+                    "end_line": 10,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 24,
+                    "start_line": 10
+                }
+            },
+            "30": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 11
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 27,
+                    "end_line": 10,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 10
+                }
+            },
+            "31": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 11
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 23,
+                    "end_line": 11,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 22,
+                    "start_line": 11
+                }
+            },
+            "33": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 12
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 28,
+                    "end_line": 11,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 11
+                }
+            },
+            "34": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 12
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 26,
+                    "end_line": 11,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 24,
+                    "start_line": 11
+                }
+            },
+            "36": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 13
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 28,
+                    "end_line": 11,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 11
+                }
+            },
+            "37": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 13
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 23,
+                    "end_line": 12,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 22,
+                    "start_line": 12
+                }
+            },
+            "39": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 14
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 28,
+                    "end_line": 12,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 12
+                }
+            },
+            "40": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 14
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 26,
+                    "end_line": 12,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 24,
+                    "start_line": 12
+                }
+            },
+            "42": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 15
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 28,
+                    "end_line": 12,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 12
+                }
+            },
+            "43": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 15
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 23,
+                    "end_line": 13,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 22,
+                    "start_line": 13
+                }
+            },
+            "45": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 16
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp12": 14,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 27,
+                    "end_line": 13,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 13
+                }
+            },
+            "46": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 16
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp12": 14,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 25,
+                    "end_line": 13,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 24,
+                    "start_line": 13
+                }
+            },
+            "48": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 17
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp12": 14,
+                        "__main__.main.__temp13": 15,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 27,
+                    "end_line": 13,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 13
+                }
+            },
+            "49": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 17
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp12": 14,
+                        "__main__.main.__temp13": 15,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 23,
+                    "end_line": 14,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 22,
+                    "start_line": 14
+                }
+            },
+            "51": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 18
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp12": 14,
+                        "__main__.main.__temp13": 15,
+                        "__main__.main.__temp14": 16,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 28,
+                    "end_line": 14,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 14
+                }
+            },
+            "52": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 18
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp12": 14,
+                        "__main__.main.__temp13": 15,
+                        "__main__.main.__temp14": 16,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 26,
+                    "end_line": 14,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 24,
+                    "start_line": 14
+                }
+            },
+            "54": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 19
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp12": 14,
+                        "__main__.main.__temp13": 15,
+                        "__main__.main.__temp14": 16,
+                        "__main__.main.__temp15": 17,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 28,
+                    "end_line": 14,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 14
+                }
+            },
+            "55": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 19
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp12": 14,
+                        "__main__.main.__temp13": 15,
+                        "__main__.main.__temp14": 16,
+                        "__main__.main.__temp15": 17,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 23,
+                    "end_line": 15,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 22,
+                    "start_line": 15
+                }
+            },
+            "57": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 20
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp12": 14,
+                        "__main__.main.__temp13": 15,
+                        "__main__.main.__temp14": 16,
+                        "__main__.main.__temp15": 17,
+                        "__main__.main.__temp16": 18,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 28,
+                    "end_line": 15,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 15
+                }
+            },
+            "58": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 20
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp12": 14,
+                        "__main__.main.__temp13": 15,
+                        "__main__.main.__temp14": 16,
+                        "__main__.main.__temp15": 17,
+                        "__main__.main.__temp16": 18,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 26,
+                    "end_line": 15,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 24,
+                    "start_line": 15
+                }
+            },
+            "60": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 21
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp12": 14,
+                        "__main__.main.__temp13": 15,
+                        "__main__.main.__temp14": 16,
+                        "__main__.main.__temp15": 17,
+                        "__main__.main.__temp16": 18,
+                        "__main__.main.__temp17": 19,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 28,
+                    "end_line": 15,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 15
+                }
+            },
+            "61": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 21
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp12": 14,
+                        "__main__.main.__temp13": 15,
+                        "__main__.main.__temp14": 16,
+                        "__main__.main.__temp15": 17,
+                        "__main__.main.__temp16": 18,
+                        "__main__.main.__temp17": 19,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.end_index": 21,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0,
+                        "__main__.main.res": 22,
+                        "__main__.main.start_index": 20
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 30,
+                    "end_line": 6,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "parent_location": [
+                        {
+                            "end_col": 17,
+                            "end_line": 23,
+                            "input_file": {
+                                "filename": "reducer.cairo"
+                            },
+                            "start_col": 12,
+                            "start_line": 23
+                        },
+                        "While expanding the reference 'inter' in:"
+                    ],
+                    "start_col": 11,
+                    "start_line": 6
+                }
+            },
+            "62": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 22
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp12": 14,
+                        "__main__.main.__temp13": 15,
+                        "__main__.main.__temp14": 16,
+                        "__main__.main.__temp15": 17,
+                        "__main__.main.__temp16": 18,
+                        "__main__.main.__temp17": 19,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.end_index": 21,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0,
+                        "__main__.main.res": 22,
+                        "__main__.main.start_index": 20
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 35,
+                    "end_line": 20,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "parent_location": [
+                        {
+                            "end_col": 29,
+                            "end_line": 23,
+                            "input_file": {
+                                "filename": "reducer.cairo"
+                            },
+                            "start_col": 18,
+                            "start_line": 23
+                        },
+                        "While expanding the reference 'start_index' in:"
+                    ],
+                    "start_col": 21,
+                    "start_line": 20
+                }
+            },
+            "64": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 23
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp12": 14,
+                        "__main__.main.__temp13": 15,
+                        "__main__.main.__temp14": 16,
+                        "__main__.main.__temp15": 17,
+                        "__main__.main.__temp16": 18,
+                        "__main__.main.__temp17": 19,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.end_index": 21,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0,
+                        "__main__.main.res": 22,
+                        "__main__.main.start_index": 20
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 38,
+                    "end_line": 21,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "parent_location": [
+                        {
+                            "end_col": 39,
+                            "end_line": 23,
+                            "input_file": {
+                                "filename": "reducer.cairo"
+                            },
+                            "start_col": 30,
+                            "start_line": 23
+                        },
+                        "While expanding the reference 'end_index' in:"
+                    ],
+                    "start_col": 20,
+                    "start_line": 21
+                }
+            },
+            "66": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 24
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp12": 14,
+                        "__main__.main.__temp13": 15,
+                        "__main__.main.__temp14": 16,
+                        "__main__.main.__temp15": 17,
+                        "__main__.main.__temp16": 18,
+                        "__main__.main.__temp17": 19,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.end_index": 21,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0,
+                        "__main__.main.res": 22,
+                        "__main__.main.start_index": 20
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 14,
+                    "end_line": 22,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "parent_location": [
+                        {
+                            "end_col": 43,
+                            "end_line": 23,
+                            "input_file": {
+                                "filename": "reducer.cairo"
+                            },
+                            "start_col": 40,
+                            "start_line": 23
+                        },
+                        "While expanding the reference 'res' in:"
+                    ],
+                    "start_col": 13,
+                    "start_line": 22
+                }
+            },
+            "68": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 25
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp12": 14,
+                        "__main__.main.__temp13": 15,
+                        "__main__.main.__temp14": 16,
+                        "__main__.main.__temp15": 17,
+                        "__main__.main.__temp16": 18,
+                        "__main__.main.__temp17": 19,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.end_index": 21,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0,
+                        "__main__.main.res": 22,
+                        "__main__.main.start_index": 20
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 44,
+                    "end_line": 23,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 23
+                }
+            },
+            "70": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 2,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.main.__temp0": 2,
+                        "__main__.main.__temp1": 3,
+                        "__main__.main.__temp10": 12,
+                        "__main__.main.__temp11": 13,
+                        "__main__.main.__temp12": 14,
+                        "__main__.main.__temp13": 15,
+                        "__main__.main.__temp14": 16,
+                        "__main__.main.__temp15": 17,
+                        "__main__.main.__temp16": 18,
+                        "__main__.main.__temp17": 19,
+                        "__main__.main.__temp2": 4,
+                        "__main__.main.__temp3": 5,
+                        "__main__.main.__temp4": 6,
+                        "__main__.main.__temp5": 7,
+                        "__main__.main.__temp6": 8,
+                        "__main__.main.__temp7": 9,
+                        "__main__.main.__temp8": 10,
+                        "__main__.main.__temp9": 11,
+                        "__main__.main.end_index": 21,
+                        "__main__.main.inter": 1,
+                        "__main__.main.jobid": 0,
+                        "__main__.main.res": 22,
+                        "__main__.main.start_index": 20
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 14,
+                    "end_line": 24,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 24
+                }
+            },
+            "71": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.reduce"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.reduce.end_index": 25,
+                        "__main__.reduce.inter": 23,
+                        "__main__.reduce.res": 26,
+                        "__main__.reduce.start_index": 24
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 31,
+                    "end_line": 28,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 9,
+                    "start_line": 28
+                }
+            },
+            "72": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.reduce"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 1
+                    },
+                    "reference_ids": {
+                        "__main__.reduce.__temp18": 27,
+                        "__main__.reduce.end_index": 25,
+                        "__main__.reduce.inter": 23,
+                        "__main__.reduce.res": 26,
+                        "__main__.reduce.start_index": 24
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 7,
+                    "end_line": 28,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 28
+                }
+            },
+            "74": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.reduce"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 1
+                    },
+                    "reference_ids": {
+                        "__main__.reduce.__temp18": 27,
+                        "__main__.reduce.end_index": 25,
+                        "__main__.reduce.inter": 23,
+                        "__main__.reduce.res": 26,
+                        "__main__.reduce.start_index": 24
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 35,
+                    "end_line": 29,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 17,
+                    "start_line": 29
+                }
+            },
+            "76": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.reduce"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 2
+                    },
+                    "reference_ids": {
+                        "__main__.reduce.__temp18": 27,
+                        "__main__.reduce.__temp19": 28,
+                        "__main__.reduce.end_index": 25,
+                        "__main__.reduce.inter": 23,
+                        "__main__.reduce.res": 26,
+                        "__main__.reduce.start_index": 24
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 35,
+                    "end_line": 29,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 17,
+                    "start_line": 29
+                }
+            },
+            "77": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.reduce"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 3
+                    },
+                    "reference_ids": {
+                        "__main__.reduce.__temp18": 27,
+                        "__main__.reduce.__temp19": 28,
+                        "__main__.reduce.__temp20": 29,
+                        "__main__.reduce.end_index": 25,
+                        "__main__.reduce.inter": 23,
+                        "__main__.reduce.res": 26,
+                        "__main__.reduce.start_index": 24
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 38,
+                    "end_line": 29,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 17,
+                    "start_line": 29
+                }
+            },
+            "78": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.reduce"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 4
+                    },
+                    "reference_ids": {
+                        "__main__.reduce.__temp18": 27,
+                        "__main__.reduce.__temp19": 28,
+                        "__main__.reduce.__temp20": 29,
+                        "__main__.reduce.end_index": 25,
+                        "__main__.reduce.inter": 23,
+                        "__main__.reduce.res": 26,
+                        "__main__.reduce.start_index": 24
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 75,
+                    "end_line": 27,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "parent_location": [
+                        {
+                            "end_col": 42,
+                            "end_line": 29,
+                            "input_file": {
+                                "filename": "reducer.cairo"
+                            },
+                            "start_col": 39,
+                            "start_line": 29
+                        },
+                        "While expanding the reference 'res' in:"
+                    ],
+                    "start_col": 67,
+                    "start_line": 27
+                }
+            },
+            "79": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.reduce"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 5
+                    },
+                    "reference_ids": {
+                        "__main__.reduce.__temp18": 27,
+                        "__main__.reduce.__temp19": 28,
+                        "__main__.reduce.__temp20": 29,
+                        "__main__.reduce.end_index": 25,
+                        "__main__.reduce.inter": 23,
+                        "__main__.reduce.res": 26,
+                        "__main__.reduce.start_index": 24
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 44,
+                    "end_line": 29,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 9,
+                    "start_line": 29
+                }
+            },
+            "80": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.reduce"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 1
+                    },
+                    "reference_ids": {
+                        "__main__.reduce.__temp18": 27,
+                        "__main__.reduce.end_index": 25,
+                        "__main__.reduce.inter": 23,
+                        "__main__.reduce.res": 26,
+                        "__main__.reduce.start_index": 24,
+                        "__main__.reduce.val": 30
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 32,
+                    "end_line": 31,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "parent_location": [
+                        {
+                            "end_col": 91,
+                            "end_line": 33,
+                            "input_file": {
+                                "filename": "reducer.cairo"
+                            },
+                            "start_col": 88,
+                            "start_line": 33
+                        },
+                        "While expanding the reference 'val' in:"
+                    ],
+                    "start_col": 14,
+                    "start_line": 31
+                }
+            },
+            "82": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.reduce"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 2
+                    },
+                    "reference_ids": {
+                        "__main__.reduce.__temp18": 27,
+                        "__main__.reduce.__temp21": 31,
+                        "__main__.reduce.end_index": 25,
+                        "__main__.reduce.inter": 23,
+                        "__main__.reduce.res": 26,
+                        "__main__.reduce.start_index": 24,
+                        "__main__.reduce.val": 30
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 35,
+                    "end_line": 31,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "parent_location": [
+                        {
+                            "end_col": 91,
+                            "end_line": 33,
+                            "input_file": {
+                                "filename": "reducer.cairo"
+                            },
+                            "start_col": 88,
+                            "start_line": 33
+                        },
+                        "While expanding the reference 'val' in:"
+                    ],
+                    "start_col": 14,
+                    "start_line": 31
+                }
+            },
+            "84": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.reduce"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 3
+                    },
+                    "reference_ids": {
+                        "__main__.reduce.__temp18": 27,
+                        "__main__.reduce.__temp21": 31,
+                        "__main__.reduce.__temp22": 32,
+                        "__main__.reduce.end_index": 25,
+                        "__main__.reduce.inter": 23,
+                        "__main__.reduce.res": 26,
+                        "__main__.reduce.start_index": 24,
+                        "__main__.reduce.val": 30
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 35,
+                    "end_line": 31,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "parent_location": [
+                        {
+                            "end_col": 91,
+                            "end_line": 33,
+                            "input_file": {
+                                "filename": "reducer.cairo"
+                            },
+                            "start_col": 88,
+                            "start_line": 33
+                        },
+                        "While expanding the reference 'val' in:"
+                    ],
+                    "start_col": 14,
+                    "start_line": 31
+                }
+            },
+            "85": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.reduce"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 4
+                    },
+                    "reference_ids": {
+                        "__main__.reduce.__temp18": 27,
+                        "__main__.reduce.__temp21": 31,
+                        "__main__.reduce.__temp22": 32,
+                        "__main__.reduce.__temp23": 33,
+                        "__main__.reduce.end_index": 25,
+                        "__main__.reduce.inter": 23,
+                        "__main__.reduce.res": 26,
+                        "__main__.reduce.start_index": 24,
+                        "__main__.reduce.val": 30
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 35,
+                    "end_line": 31,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "parent_location": [
+                        {
+                            "end_col": 91,
+                            "end_line": 33,
+                            "input_file": {
+                                "filename": "reducer.cairo"
+                            },
+                            "start_col": 88,
+                            "start_line": 33
+                        },
+                        "While expanding the reference 'val' in:"
+                    ],
+                    "start_col": 14,
+                    "start_line": 31
+                }
+            },
+            "86": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.reduce"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 5
+                    },
+                    "reference_ids": {
+                        "__main__.reduce.__temp18": 27,
+                        "__main__.reduce.__temp21": 31,
+                        "__main__.reduce.__temp22": 32,
+                        "__main__.reduce.__temp23": 33,
+                        "__main__.reduce.__temp24": 34,
+                        "__main__.reduce.end_index": 25,
+                        "__main__.reduce.inter": 23,
+                        "__main__.reduce.res": 26,
+                        "__main__.reduce.start_index": 24,
+                        "__main__.reduce.val": 30
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 31,
+                    "end_line": 27,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "parent_location": [
+                        {
+                            "end_col": 30,
+                            "end_line": 33,
+                            "input_file": {
+                                "filename": "reducer.cairo"
+                            },
+                            "start_col": 25,
+                            "start_line": 33
+                        },
+                        "While expanding the reference 'inter' in:"
+                    ],
+                    "start_col": 13,
+                    "start_line": 27
+                }
+            },
+            "87": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.reduce"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 6
+                    },
+                    "reference_ids": {
+                        "__main__.reduce.__temp18": 27,
+                        "__main__.reduce.__temp21": 31,
+                        "__main__.reduce.__temp22": 32,
+                        "__main__.reduce.__temp23": 33,
+                        "__main__.reduce.__temp24": 34,
+                        "__main__.reduce.end_index": 25,
+                        "__main__.reduce.inter": 23,
+                        "__main__.reduce.res": 26,
+                        "__main__.reduce.start_index": 24,
+                        "__main__.reduce.val": 30
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 57,
+                    "end_line": 33,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 44,
+                    "start_line": 33
+                }
+            },
+            "89": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.reduce"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 7
+                    },
+                    "reference_ids": {
+                        "__main__.reduce.__temp18": 27,
+                        "__main__.reduce.__temp21": 31,
+                        "__main__.reduce.__temp22": 32,
+                        "__main__.reduce.__temp23": 33,
+                        "__main__.reduce.__temp24": 34,
+                        "__main__.reduce.end_index": 25,
+                        "__main__.reduce.inter": 23,
+                        "__main__.reduce.res": 26,
+                        "__main__.reduce.start_index": 24,
+                        "__main__.reduce.val": 30
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 65,
+                    "end_line": 27,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "parent_location": [
+                        {
+                            "end_col": 78,
+                            "end_line": 33,
+                            "input_file": {
+                                "filename": "reducer.cairo"
+                            },
+                            "start_col": 69,
+                            "start_line": 33
+                        },
+                        "While expanding the reference 'end_index' in:"
+                    ],
+                    "start_col": 51,
+                    "start_line": 27
+                }
+            },
+            "90": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.reduce"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 8
+                    },
+                    "reference_ids": {
+                        "__main__.reduce.__temp18": 27,
+                        "__main__.reduce.__temp21": 31,
+                        "__main__.reduce.__temp22": 32,
+                        "__main__.reduce.__temp23": 33,
+                        "__main__.reduce.__temp24": 34,
+                        "__main__.reduce.end_index": 25,
+                        "__main__.reduce.inter": 23,
+                        "__main__.reduce.res": 26,
+                        "__main__.reduce.start_index": 24,
+                        "__main__.reduce.val": 30
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 91,
+                    "end_line": 33,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 84,
+                    "start_line": 33
+                }
+            },
+            "91": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.reduce"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 9
+                    },
+                    "reference_ids": {
+                        "__main__.reduce.__temp18": 27,
+                        "__main__.reduce.__temp21": 31,
+                        "__main__.reduce.__temp22": 32,
+                        "__main__.reduce.__temp23": 33,
+                        "__main__.reduce.__temp24": 34,
+                        "__main__.reduce.end_index": 25,
+                        "__main__.reduce.inter": 23,
+                        "__main__.reduce.res": 26,
+                        "__main__.reduce.start_index": 24,
+                        "__main__.reduce.val": 30
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 92,
+                    "end_line": 33,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 12,
+                    "start_line": 33
+                }
+            },
+            "93": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.reduce"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 4,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.reduce.__temp18": 27,
+                        "__main__.reduce.__temp21": 31,
+                        "__main__.reduce.__temp22": 32,
+                        "__main__.reduce.__temp23": 33,
+                        "__main__.reduce.__temp24": 34,
+                        "__main__.reduce.end_index": 25,
+                        "__main__.reduce.inter": 23,
+                        "__main__.reduce.res": 26,
+                        "__main__.reduce.start_index": 24,
+                        "__main__.reduce.val": 30
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 93,
+                    "end_line": 33,
+                    "input_file": {
+                        "filename": "reducer.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 33
+                }
+            }
+        }
+    },
+    "hints": {
+        "0": [
+            {
+                "accessible_scopes": [
+                    "starkware.cairo.common.alloc",
+                    "starkware.cairo.common.alloc.alloc"
+                ],
+                "code": "memory[ap] = segments.add()",
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 0
+                    },
+                    "reference_ids": {}
+                }
+            }
+        ]
+    },
+    "identifiers": {
+        "__main__.alloc": {
+            "destination": "starkware.cairo.common.alloc.alloc",
+            "type": "alias"
+        },
+        "__main__.main": {
+            "decorators": [],
+            "pc": 3,
+            "type": "function"
+        },
+        "__main__.main.Args": {
+            "full_name": "__main__.main.Args",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.main.COL_SIZE": {
+            "type": "const",
+            "value": 3
+        },
+        "__main__.main.ImplicitArgs": {
+            "full_name": "__main__.main.ImplicitArgs",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.main.ROW_SIZE": {
+            "type": "const",
+            "value": 3
+        },
+        "__main__.main.Return": {
+            "cairo_type": "()",
+            "type": "type_definition"
+        },
+        "__main__.main.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.main.__temp0": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.__temp0",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 4
+                    },
+                    "pc": 9,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.__temp1": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.__temp1",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 5
+                    },
+                    "pc": 12,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.__temp10": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.__temp10",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 14
+                    },
+                    "pc": 39,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.__temp11": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.__temp11",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 15
+                    },
+                    "pc": 42,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.__temp12": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.__temp12",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 16
+                    },
+                    "pc": 45,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.__temp13": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.__temp13",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 17
+                    },
+                    "pc": 48,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.__temp14": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.__temp14",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 18
+                    },
+                    "pc": 51,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.__temp15": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.__temp15",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 19
+                    },
+                    "pc": 54,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.__temp16": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.__temp16",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 20
+                    },
+                    "pc": 57,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.__temp17": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.__temp17",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 21
+                    },
+                    "pc": 60,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.__temp2": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.__temp2",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 6
+                    },
+                    "pc": 15,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.__temp3": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.__temp3",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 7
+                    },
+                    "pc": 18,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.__temp4": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.__temp4",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 8
+                    },
+                    "pc": 21,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.__temp5": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.__temp5",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 9
+                    },
+                    "pc": 24,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.__temp6": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.__temp6",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 10
+                    },
+                    "pc": 27,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.__temp7": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.__temp7",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 11
+                    },
+                    "pc": 30,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.__temp8": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.__temp8",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 12
+                    },
+                    "pc": 33,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.__temp9": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.__temp9",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 13
+                    },
+                    "pc": 36,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.end_index": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.end_index",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 21
+                    },
+                    "pc": 61,
+                    "value": "cast(6, felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.inter": {
+            "cairo_type": "(felt, felt)*",
+            "full_name": "__main__.main.inter",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 3
+                    },
+                    "pc": 7,
+                    "value": "[cast(ap + (-1), (felt, felt)**)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.jobid": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.jobid",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 0
+                    },
+                    "pc": 5,
+                    "value": "cast(1, felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.res": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.res",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 21
+                    },
+                    "pc": 61,
+                    "value": "cast(0, felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.start_index": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.start_index",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 1,
+                        "offset": 21
+                    },
+                    "pc": 61,
+                    "value": "cast(3, felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.reduce": {
+            "decorators": [],
+            "pc": 71,
+            "type": "function"
+        },
+        "__main__.reduce.Args": {
+            "full_name": "__main__.reduce.Args",
+            "members": {
+                "end_index": {
+                    "cairo_type": "felt",
+                    "offset": 2
+                },
+                "inter": {
+                    "cairo_type": "(felt, felt)*",
+                    "offset": 0
+                },
+                "res": {
+                    "cairo_type": "felt",
+                    "offset": 3
+                },
+                "start_index": {
+                    "cairo_type": "felt",
+                    "offset": 1
+                }
+            },
+            "size": 4,
+            "type": "struct"
+        },
+        "__main__.reduce.ImplicitArgs": {
+            "full_name": "__main__.reduce.ImplicitArgs",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.reduce.Return": {
+            "cairo_type": "(felt, felt)",
+            "type": "type_definition"
+        },
+        "__main__.reduce.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.reduce.__temp18": {
+            "cairo_type": "felt",
+            "full_name": "__main__.reduce.__temp18",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 3,
+                        "offset": 1
+                    },
+                    "pc": 72,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.reduce.__temp19": {
+            "cairo_type": "felt",
+            "full_name": "__main__.reduce.__temp19",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 3,
+                        "offset": 2
+                    },
+                    "pc": 76,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.reduce.__temp20": {
+            "cairo_type": "felt",
+            "full_name": "__main__.reduce.__temp20",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 3,
+                        "offset": 3
+                    },
+                    "pc": 77,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.reduce.__temp21": {
+            "cairo_type": "felt",
+            "full_name": "__main__.reduce.__temp21",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 3,
+                        "offset": 2
+                    },
+                    "pc": 82,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.reduce.__temp22": {
+            "cairo_type": "felt",
+            "full_name": "__main__.reduce.__temp22",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 3,
+                        "offset": 3
+                    },
+                    "pc": 84,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.reduce.__temp23": {
+            "cairo_type": "felt",
+            "full_name": "__main__.reduce.__temp23",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 3,
+                        "offset": 4
+                    },
+                    "pc": 85,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.reduce.__temp24": {
+            "cairo_type": "felt",
+            "full_name": "__main__.reduce.__temp24",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 3,
+                        "offset": 5
+                    },
+                    "pc": 86,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.reduce.end_index": {
+            "cairo_type": "felt",
+            "full_name": "__main__.reduce.end_index",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 3,
+                        "offset": 0
+                    },
+                    "pc": 71,
+                    "value": "[cast(fp + (-4), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.reduce.inter": {
+            "cairo_type": "(felt, felt)*",
+            "full_name": "__main__.reduce.inter",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 3,
+                        "offset": 0
+                    },
+                    "pc": 71,
+                    "value": "[cast(fp + (-6), (felt, felt)**)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.reduce.res": {
+            "cairo_type": "felt",
+            "full_name": "__main__.reduce.res",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 3,
+                        "offset": 0
+                    },
+                    "pc": 71,
+                    "value": "[cast(fp + (-3), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.reduce.start_index": {
+            "cairo_type": "felt",
+            "full_name": "__main__.reduce.start_index",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 3,
+                        "offset": 0
+                    },
+                    "pc": 71,
+                    "value": "[cast(fp + (-5), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.reduce.val": {
+            "cairo_type": "felt",
+            "full_name": "__main__.reduce.val",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 3,
+                        "offset": 1
+                    },
+                    "pc": 80,
+                    "value": "[cast([fp + (-6)] + [fp + (-5)] * 2 + 1, felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "starkware.cairo.common.alloc.alloc": {
+            "decorators": [],
+            "pc": 0,
+            "type": "function"
+        },
+        "starkware.cairo.common.alloc.alloc.Args": {
+            "full_name": "starkware.cairo.common.alloc.alloc.Args",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "starkware.cairo.common.alloc.alloc.ImplicitArgs": {
+            "full_name": "starkware.cairo.common.alloc.alloc.ImplicitArgs",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "starkware.cairo.common.alloc.alloc.Return": {
+            "cairo_type": "(ptr: felt*)",
+            "type": "type_definition"
+        },
+        "starkware.cairo.common.alloc.alloc.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        }
+    },
+    "main_scope": "__main__",
+    "prime": "0x800000000000011000000000000000000000000000000000000000000000001",
+    "reference_manager": {
+        "references": [
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 0
+                },
+                "pc": 5,
+                "value": "cast(1, felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 3
+                },
+                "pc": 7,
+                "value": "[cast(ap + (-1), (felt, felt)**)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 4
+                },
+                "pc": 9,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 5
+                },
+                "pc": 12,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 6
+                },
+                "pc": 15,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 7
+                },
+                "pc": 18,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 8
+                },
+                "pc": 21,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 9
+                },
+                "pc": 24,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 10
+                },
+                "pc": 27,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 11
+                },
+                "pc": 30,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 12
+                },
+                "pc": 33,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 13
+                },
+                "pc": 36,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 14
+                },
+                "pc": 39,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 15
+                },
+                "pc": 42,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 16
+                },
+                "pc": 45,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 17
+                },
+                "pc": 48,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 18
+                },
+                "pc": 51,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 19
+                },
+                "pc": 54,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 20
+                },
+                "pc": 57,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 21
+                },
+                "pc": 60,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 21
+                },
+                "pc": 61,
+                "value": "cast(3, felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 21
+                },
+                "pc": 61,
+                "value": "cast(6, felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 1,
+                    "offset": 21
+                },
+                "pc": 61,
+                "value": "cast(0, felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 3,
+                    "offset": 0
+                },
+                "pc": 71,
+                "value": "[cast(fp + (-6), (felt, felt)**)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 3,
+                    "offset": 0
+                },
+                "pc": 71,
+                "value": "[cast(fp + (-5), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 3,
+                    "offset": 0
+                },
+                "pc": 71,
+                "value": "[cast(fp + (-4), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 3,
+                    "offset": 0
+                },
+                "pc": 71,
+                "value": "[cast(fp + (-3), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 3,
+                    "offset": 1
+                },
+                "pc": 72,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 3,
+                    "offset": 2
+                },
+                "pc": 76,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 3,
+                    "offset": 3
+                },
+                "pc": 77,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 3,
+                    "offset": 1
+                },
+                "pc": 80,
+                "value": "[cast([fp + (-6)] + [fp + (-5)] * 2 + 1, felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 3,
+                    "offset": 2
+                },
+                "pc": 82,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 3,
+                    "offset": 3
+                },
+                "pc": 84,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 3,
+                    "offset": 4
+                },
+                "pc": 85,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 3,
+                    "offset": 5
+                },
+                "pc": 86,
+                "value": "[cast(ap + (-1), felt*)]"
+            }
+        ]
+    }
+}
