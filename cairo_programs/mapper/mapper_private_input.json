@@ -1,0 +1,7 @@
+{
+    "trace_path": "/app/mapper/mapper_trace.json",
+    "memory_path": "/app/mapper/mapper_memory.json",
+    "pedersen": [],
+    "range_check": [],
+    "bitwise": []
+}

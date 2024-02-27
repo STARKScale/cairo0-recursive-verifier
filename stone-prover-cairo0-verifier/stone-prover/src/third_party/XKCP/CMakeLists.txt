@@ -1,0 +1,5 @@
+if (DEFINED NO_AVX)
+  add_subdirectory(CompactFIPS202)
+else()
+  add_subdirectory(KeccakP-1600-OptimizedAVX2)
+endif()
